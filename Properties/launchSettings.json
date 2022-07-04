@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "VolumeMixerSetter": {
+      "commandName": "Project",
+      "commandLineArgs": "set 14240 -m 1",
+      "remoteDebugEnabled": false,
+      "nativeDebugging": true
+    }
+  }
+}

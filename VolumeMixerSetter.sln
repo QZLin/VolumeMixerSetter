@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31717.71
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "VolumeMixerSetter", "VolumeMixerSetter.csproj", "{F8F27E84-4206-4EA8-B9E8-E6B64CDE2D8E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PIDGet", "PIDGet\PIDGet.csproj", "{5D2E316F-C9D9-4519-8F55-320DA1FBB450}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F8F27E84-4206-4EA8-B9E8-E6B64CDE2D8E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F8F27E84-4206-4EA8-B9E8-E6B64CDE2D8E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F8F27E84-4206-4EA8-B9E8-E6B64CDE2D8E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F8F27E84-4206-4EA8-B9E8-E6B64CDE2D8E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5D2E316F-C9D9-4519-8F55-320DA1FBB450}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5D2E316F-C9D9-4519-8F55-320DA1FBB450}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5D2E316F-C9D9-4519-8F55-320DA1FBB450}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5D2E316F-C9D9-4519-8F55-320DA1FBB450}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3C4BC7BA-3C96-4C3C-B4EC-1078F68064DF}
+	EndGlobalSection
+EndGlobal
